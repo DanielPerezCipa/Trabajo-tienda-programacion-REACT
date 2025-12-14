@@ -1,0 +1,18 @@
+nav {
+  background-color: #161616;
+  padding: 16px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+nav button {
+  background-color: #2a2a2a;
+  color: #ffffff;
+  padding: 10px 18px;
+  border-radius: 6px;
+}
+
+nav button:hover {
+  background-color: #3d3d3d;
+}
